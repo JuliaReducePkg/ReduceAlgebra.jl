@@ -6,9 +6,8 @@
 
 *Meta-package for [Reduce.jl](https://github.com/chakravala/Reduce.jl) and [External Packages](https://github.com/JuliaReducePkg)*
 
-[![Build Status](https://travis-ci.org/chakravala/ReduceAlgebra.jl.svg?branch=master)](https://travis-ci.org/chakravala/ReduceAlgebra.jl)
-[![Coverage Status](https://coveralls.io/repos/chakravala/ReduceAlgebra.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/chakravala/ReduceAlgebra.jl?branch=master)
-[![codecov.io](http://codecov.io/github/chakravala/ReduceAlgebra.jl/coverage.svg?branch=master)](http://codecov.io/github/chakravala/ReduceAlgebra.jl?branch=master)
+[![Build Status](https://travis-ci.org/JuliaReducePkg/ReduceAlgebra.jl.svg?branch=master)](https://travis-ci.org/JuliaReducePkg/ReduceAlgebra.jl)
+[![Build status](https://ci.appveyor.com/api/projects/status/rsk2jdjwnl4spd7d?svg=true)](https://ci.appveyor.com/project/chakravala/reducealgebra-jl)
 [![Join the chat at gitter](https://badges.gitter.im/Reduce-jl/Lobby.svg)](https://gitter.im/Reduce-jl/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The upstream [REDUCE](http://www.reduce-algebra.com) software was originally created by Anthony C. Hearn (currently maintained on [SourceForge](https://sourceforge.net/p/reduce-algebra/)), the Julia packages included with this repository are based on the symbolic parser generator [Reduce.jl](https://github.com/chakravala/Reduce.jl) created by Michael Reed, which extends the Julia language with REDUCE functionality.
