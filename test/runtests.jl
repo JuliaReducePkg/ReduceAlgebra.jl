@@ -1,5 +1,5 @@
 using ReduceAlgebra
-using Base.Test
+using Test, Pkg
 
 # write your own tests here
 @test (Pkg.test("Reduce"); true)

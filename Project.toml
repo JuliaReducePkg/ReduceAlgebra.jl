@@ -1,0 +1,13 @@
+name = "ReduceAlgebra"
+uuid = "cc9b1b2d-f4cf-5aeb-b1c9-57f66198f3ff"
+
+[deps]
+Reduce = "93e0c654-6965-5f22-aba9-9c1ae6b3c259"
+ReduceLinAlg ="bfcbc1eb-9170-5dc4-a833-47b2e27cecb4" 
+
+[extras]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test","Pkg"]
