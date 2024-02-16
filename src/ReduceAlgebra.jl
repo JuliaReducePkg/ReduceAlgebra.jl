@@ -9,4 +9,6 @@ using ReduceLinAlg
 
 __init__() = nothing
 
+Reduce.stop()
+
 end # module
